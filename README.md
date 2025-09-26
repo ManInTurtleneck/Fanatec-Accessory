@@ -1,4 +1,5 @@
 # 🕹️ Arduino Sim Racing Control Panel
+![Control Panel](https://raw.githubusercontent.com/ManInTurtleneck/Arduino-Simple-Sim-Racing-Control-Panel/main/images/control-panel.png)
 
 A **low-cost, open-source sim racing control panel** designed around the **Arduino Pro Micro (ATmega32u4)**.  
 It features **6 mechanical keyboard switches**, **2 rotary encoders**, and an **ignition switch**, mounted in a **3D-printed enclosure** built to fit the **Fanatec CSL DD** base.  
