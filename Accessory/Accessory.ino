@@ -1,3 +1,6 @@
+// ManInTurtleneck
+// Created using ChatGPT 5.0 Thinking
+
 // --- Fix for Arduino auto-prototype issue ---
 struct EncRT;  // forward-declare so auto-generated prototypes can see the type
 
